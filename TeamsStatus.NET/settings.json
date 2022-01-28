@@ -1,0 +1,7 @@
+﻿{
+  "TeamsStatusSettings": {
+    "HomeAssistantToken": "token",
+    "UserName": "user",
+    "HomeAssistantUrl": "url"
+  }
+}
